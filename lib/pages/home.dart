@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
             decoration: BoxDecoration(
                 image: DecorationImage(
                     fit: BoxFit.fill,
-                    image: AssetImage('assets/background.png'))),
+                    image: AssetImage('assets/images/background.png'))),
             child: Column(children: [
               Padding(
                   padding: EdgeInsets.fromLTRB(30, 60, 20, 20),
@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
                     children: [
                       CircleAvatar(
                         minRadius: 25,
-                        backgroundImage: AssetImage('assets/profileImage.webp'),
+                        backgroundImage: AssetImage('assets/images/avatar.jpg'),
                       ),
                       ElevatedButton(
                         onPressed: (() => {}),
