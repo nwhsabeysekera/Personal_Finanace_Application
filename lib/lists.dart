@@ -7,7 +7,7 @@ List upcomingTransactions = [
       color: Colors.red,
       size: 40,
     ),
-    "-€150.52",
+    "-Rs.150.52",
     DateTime(2022, 10, 16),
     "Luxury"
   ],
@@ -17,7 +17,7 @@ List upcomingTransactions = [
       color: Colors.blue,
       size: 40,
     ),
-    "-€180.01",
+    "-Rs.180.01",
     DateTime(2022, 10, 17),
     "Software"
   ],
@@ -27,7 +27,7 @@ List upcomingTransactions = [
       color: Colors.blue,
       size: 40,
     ),
-    "-€10.32",
+    "-Rs.10.32",
     DateTime(2022, 10, 18),
     "Tooling"
   ],
@@ -37,7 +37,7 @@ List upcomingTransactions = [
       size: 40,
       color: Colors.green,
     ),
-    "-€19.39",
+    "-Rs.19.39",
     DateTime(2022, 10, 22),
     "Vacation/Travel"
   ],
@@ -47,7 +47,7 @@ List upcomingTransactions = [
       color: Colors.purple,
       size: 40,
     ),
-    "-€90.19",
+    "-Rs.90.19",
     DateTime(2022, 10, 23),
     "Education"
   ],
@@ -57,7 +57,7 @@ List upcomingTransactions = [
       color: Colors.purple,
       size: 40,
     ),
-    "-€89.32",
+    "-Rs.89.32",
     DateTime(2022, 10, 24),
     "Makeup"
   ],
@@ -67,7 +67,7 @@ List upcomingTransactions = [
       color: Colors.purple,
       size: 40,
     ),
-    "-€90.19",
+    "-Rs.90.19",
     DateTime(2022, 10, 23),
     "Education"
   ],
@@ -80,7 +80,7 @@ List pastTransactions = [
       color: Colors.pink,
       size: 40,
     ),
-    "-€150.52",
+    "-Rs.150.52",
     DateTime(2022, 9, 16),
     "Jewlery"
   ],
@@ -90,7 +90,7 @@ List pastTransactions = [
       color: Colors.green,
       size: 40,
     ),
-    "-€180.32",
+    "-Rs.180.32",
     DateTime(2022, 9, 13),
     "Gardening"
   ],
@@ -100,7 +100,7 @@ List pastTransactions = [
       color: Colors.blue,
       size: 40,
     ),
-    "-€112.39",
+    "-Rs.112.39",
     DateTime(2022, 9, 11),
     "Software"
   ],
@@ -110,7 +110,7 @@ List pastTransactions = [
       color: Colors.orange,
       size: 40,
     ),
-    "-€170.19",
+    "-Rs.170.19",
     DateTime(2022, 9, 10),
     "Materials"
   ],
@@ -120,7 +120,7 @@ List pastTransactions = [
       color: Colors.blue,
       size: 40,
     ),
-    "-€250.12",
+    "-Rs.250.12",
     DateTime(2022, 9, 9),
     "Beauty"
   ],

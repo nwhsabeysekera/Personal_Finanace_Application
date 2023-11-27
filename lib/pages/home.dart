@@ -78,7 +78,7 @@ class _HomePageState extends State<HomePage> {
                           ),
                         ),
                         Text(
-                          "€5785.55",
+                          "Rs.5785.55",
                           textAlign: TextAlign.left,
                           style: TextStyle(
                               color: Colors.white,
@@ -113,7 +113,7 @@ class _HomePageState extends State<HomePage> {
                             builder: ((context) => TransactionPage())));
                       },
                       child: Text(
-                        "-€540.26",
+                        "-Rs.540.26",
                         style: TextStyle(
                             color: Colors.grey[700],
                             fontWeight: FontWeight.w500),
