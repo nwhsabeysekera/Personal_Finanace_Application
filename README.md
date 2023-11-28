@@ -1,4 +1,4 @@
-#Personal Finance App
+# Personal Finance App
 
 This application is used as an expense tracker in our day-to-day life. 
 
@@ -7,5 +7,4 @@ This application is used as an expense tracker in our day-to-day life.
  - Flutter
  - Dart packages
  - Visual Studio Code
- - 
 
